@@ -19,7 +19,7 @@ _Collaborate and work together on GitHub._
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Suggest changes
+## Step 4: Suggest change
 
 _Nice work reviewing that pull request :sparkles:_
 
