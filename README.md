@@ -23,7 +23,7 @@ _Collaborate and work together on GitHub._
 
 _Nice work reviewing that pull request :sparkles:_
 
-Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
+Now that you have explore the different ways you can review a pull request it is time to learn how to use _suggest changes_.
 
 **What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
 
