@@ -21,7 +21,7 @@ _Collaborate and work together on GitHub._
 
 ## Step 4: Suggest change
 
-_nice work reviewing that pull request :sparkles:_
+_Nice work reviewing that pull request :sparkles:_
 
 Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
 
